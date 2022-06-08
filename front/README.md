@@ -1,4 +1,4 @@
-# front
+# Pokédex
 
 ## Project setup
 ```
